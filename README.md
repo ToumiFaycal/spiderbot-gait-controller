@@ -4,7 +4,10 @@ A scripted crawl gait for a 12-DOF quadruped robot, simulated in PyBullet. Hold 
 
 This was the **manual fallback controller** for a 3-person engineering project (PFA, INSAT): if the team's reinforcement-learning policy failed to produce usable locomotion, this hand-written gait could still walk the robot. My part of the project was this controller.
 
-<!-- TODO: add a GIF or short video of the simulation walking -->
+## Demo
+
+![SpiderBot crawl gait in PyBullet](demo.gif)
+
 
 ## The robot
 
